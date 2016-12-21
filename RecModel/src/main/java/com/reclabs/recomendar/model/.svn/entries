@@ -1,0 +1,49 @@
+10
+
+dir
+157
+http://hugo.recstatic.com:10114/svn/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model
+http://hugo.recstatic.com:10114/svn
+
+
+
+2014-01-07T16:00:40.807701Z
+152
+raul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+90616632-58cf-415e-96d7-12ae0dd58ec4
+
+assemblers
+dir
+
+documents
+dir
+
+exceptions
+dir
+
+objects
+dir
+
+repositories
+dir
+
+services
+dir
+
+types
+dir
+

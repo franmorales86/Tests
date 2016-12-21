@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/153/reclabs/recomendar/backend/RecCore/trunk/src/test/java/com/reclabs/recomendar/core/repository
+END
+ItemRepositoryImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/153/reclabs/recomendar/backend/RecCore/trunk/src/test/java/com/reclabs/recomendar/core/repository/ItemRepositoryImplTest.java
+END
+UserRepositoryImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/153/reclabs/recomendar/backend/RecCore/trunk/src/test/java/com/reclabs/recomendar/core/repository/UserRepositoryImplTest.java
+END
+TagRepositoryImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/test/java/com/reclabs/recomendar/core/repository/TagRepositoryImplTest.java
+END
+RecommendationRepositoryImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/153/reclabs/recomendar/backend/RecCore/trunk/src/test/java/com/reclabs/recomendar/core/repository/RecommendationRepositoryImplTest.java
+END

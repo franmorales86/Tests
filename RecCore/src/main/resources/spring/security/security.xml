@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:sec="http://www.springframework.org/schema/security" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans	http://www.springframework.org/schema/beans/spring-beans.xsd
+				http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security-3.1.xsd">
+
+    <sec:global-method-security
+            secured-annotations="enabled" pre-post-annotations="enabled"
+            proxy-target-class="true">
+        <sec:expression-handler ref="oauthExpressionHandler"/>
+    </sec:global-method-security>
+
+
+    <bean id="tokenStore"
+          class="com.reclabs.recomendar.core.misc.security.tokens.TokenStoreImpl"/>
+
+    <bean id="clientDetailsUserService"
+          class="org.springframework.security.oauth2.provider.client.ClientDetailsUserDetailsService">
+        <constructor-arg ref="clientDetailsService"/>
+    </bean>
+
+    <bean id="clientDetailsService"
+          class="com.reclabs.recomendar.core.misc.security.ClientDetailsServiceImpl"/>
+
+    <sec:authentication-manager id="clientAuthenticationManager">
+        <sec:authentication-provider
+                user-service-ref="clientDetailsUserService"/>
+    </sec:authentication-manager>
+
+
+    <bean id="tokenServices"
+          class="org.springframework.security.oauth2.provider.token.DefaultTokenServices">
+        <property name="tokenStore" ref="tokenStore"/>
+
+        <!-- Default is 12 hours but i increase to 5 days -->
+        <property name="accessTokenValiditySeconds" value="432000"/>
+
+        <property name="supportRefreshToken" value="true"/>
+    </bean>
+
+    <bean id="userApprovalHandler"
+          class="com.reclabs.recomendar.core.misc.security.UserApprovalHandler">
+        <property name="tokenServices" ref="tokenServices"/>
+        <property name="autoApproveClients">
+            <set>
+                <value>smallNotesExternalWebApp_clientID</value>
+                <value>recomendar_sandbox</value>
+            </set>
+        </property>
+    </bean>
+
+    <bean id="oauthAuthenticationEntryPoint"
+          class="org.springframework.security.oauth2.provider.error.OAuth2AuthenticationEntryPoint"/>
+
+    <bean id="oauthAccessDeniedHandler"
+          class="org.springframework.security.oauth2.provider.error.OAuth2AccessDeniedHandler"/>
+    <bean id="clientCredentialsTokenEndpointFilter"
+          class="org.springframework.security.oauth2.provider.client.ClientCredentialsTokenEndpointFilter">
+        <property name="authenticationManager" ref="clientAuthenticationManager"/>
+    </bean>
+
+    <bean id="accessDecisionManager" class="org.springframework.security.access.vote.UnanimousBased">
+        <constructor-arg>
+            <list>
+                <bean class="org.springframework.security.oauth2.provider.vote.ScopeVoter"/>
+                <bean class="org.springframework.security.access.vote.RoleVoter"/>
+                <bean class="org.springframework.security.access.vote.AuthenticatedVoter"/>
+            </list>
+        </constructor-arg>
+    </bean>
+</beans>
+  

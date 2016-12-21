@@ -1,0 +1,34 @@
+10
+
+dir
+156
+http://hugo.recstatic.com:10114/svn/reclabs/libs/RecESDriver/trunk/src/test
+http://hugo.recstatic.com:10114/svn
+
+
+
+2013-12-20T09:54:37.329245Z
+64
+raul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+90616632-58cf-415e-96d7-12ae0dd58ec4
+
+java
+dir
+
+resources
+dir
+

@@ -1,0 +1,10 @@
+com.reclabs.recomendar.esdriver
+com.reclabs.recomendar.esdriver.actions
+com.reclabs.recomendar.esdriver.actions.internal
+com.reclabs.recomendar.esdriver.actions.queries
+com.reclabs.recomendar.esdriver.actions.queries.generics
+com.reclabs.recomendar.esdriver.exceptions
+com.reclabs.recomendar.esdriver.helper
+com.reclabs.recomendar.esdriver.helper.serializers
+com.reclabs.recomendar.esdriver.index
+com.reclabs.recomendar.esdriver.types

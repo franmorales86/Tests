@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/46/reclabs/recomendar/backend/RecObjects/trunk/src/main/java/com/reclabs/recomendar/objects/users
+END
+SocialUserDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/46/reclabs/recomendar/backend/RecObjects/trunk/src/main/java/com/reclabs/recomendar/objects/users/SocialUserDTO.java
+END
+ChangePasswordDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/46/reclabs/recomendar/backend/RecObjects/trunk/src/main/java/com/reclabs/recomendar/objects/users/ChangePasswordDTO.java
+END

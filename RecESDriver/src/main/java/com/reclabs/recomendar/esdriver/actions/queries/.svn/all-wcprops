@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/64/reclabs/libs/RecESDriver/trunk/src/main/java/com/reclabs/recomendar/esdriver/actions/queries
+END
+ESBoolQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/64/reclabs/libs/RecESDriver/trunk/src/main/java/com/reclabs/recomendar/esdriver/actions/queries/ESBoolQuery.java
+END
+ESGenericQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/64/reclabs/libs/RecESDriver/trunk/src/main/java/com/reclabs/recomendar/esdriver/actions/queries/ESGenericQuery.java
+END
+ESQueryStringQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/64/reclabs/libs/RecESDriver/trunk/src/main/java/com/reclabs/recomendar/esdriver/actions/queries/ESQueryStringQuery.java
+END
+ESHasChildQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/157/reclabs/libs/RecESDriver/trunk/src/main/java/com/reclabs/recomendar/esdriver/actions/queries/ESHasChildQuery.java
+END
+ESCustomScoreQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/157/reclabs/libs/RecESDriver/trunk/src/main/java/com/reclabs/recomendar/esdriver/actions/queries/ESCustomScoreQuery.java
+END
+ESTopChildrenQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/64/reclabs/libs/RecESDriver/trunk/src/main/java/com/reclabs/recomendar/esdriver/actions/queries/ESTopChildrenQuery.java
+END

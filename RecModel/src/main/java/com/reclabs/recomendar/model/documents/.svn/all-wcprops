@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/147/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents
+END
+Collection.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/Collection.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/Category.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/Tag.java
+END
+Recommendation.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/Recommendation.java
+END

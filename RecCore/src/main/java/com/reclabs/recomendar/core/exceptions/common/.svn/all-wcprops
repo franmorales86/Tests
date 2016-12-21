@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/exceptions/common
+END
+PermissionDeniedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/exceptions/common/PermissionDeniedException.java
+END

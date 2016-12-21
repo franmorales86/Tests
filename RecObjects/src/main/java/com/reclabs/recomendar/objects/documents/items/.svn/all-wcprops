@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/46/reclabs/recomendar/backend/RecObjects/trunk/src/main/java/com/reclabs/recomendar/objects/documents/items
+END
+ESItemDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/46/reclabs/recomendar/backend/RecObjects/trunk/src/main/java/com/reclabs/recomendar/objects/documents/items/ESItemDTO.java
+END
+ItemDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/46/reclabs/recomendar/backend/RecObjects/trunk/src/main/java/com/reclabs/recomendar/objects/documents/items/ItemDTO.java
+END
+ItemToInsertDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/46/reclabs/recomendar/backend/RecObjects/trunk/src/main/java/com/reclabs/recomendar/objects/documents/items/ItemToInsertDTO.java
+END
+ItemSearchDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/46/reclabs/recomendar/backend/RecObjects/trunk/src/main/java/com/reclabs/recomendar/objects/documents/items/ItemSearchDTO.java
+END

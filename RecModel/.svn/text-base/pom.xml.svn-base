@@ -1,0 +1,54 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.reclabs.libs</groupId>
+        <artifactId>RecMain</artifactId>
+        <version>0.0.5</version>
+    </parent>
+    <groupId>com.reclabs.recomendar.backend</groupId>
+    <artifactId>RecModel</artifactId>
+    <version>0.0.10-SNAPSHOT</version>
+    <name>RecModel</name>
+    <packaging>jar</packaging>
+    <description>Data model of Recomendar</description>
+
+    <properties>
+        <tagBase>${hugo.svn.base}/recomendar/backend/RecModel/tags</tagBase>
+    </properties>
+
+    <scm>
+        <connection>scm:svn:http://hugo.recstatic.com:10114/svn/reclabs/recomendar/backend/RecModel/trunk</connection>
+        <developerConnection>scm:svn:http://hugo.recstatic.com:10114/svn/reclabs/recomendar/backend/RecModel/trunk</developerConnection>
+        <url>http://hugo.recstatic.com:10114/svn/reclabs/recomendar/backend/RecModel/trunk</url>
+    </scm>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.data</groupId>
+            <artifactId>spring-data-mongodb</artifactId>
+            <version>1.3.1.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>com.reclabs.libs</groupId>
+            <artifactId>RecCommon</artifactId>
+            <version>0.0.10-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.reclabs.recomendar.backend</groupId>
+            <artifactId>RecObjects</artifactId>
+            <version>0.0.8</version>
+        </dependency>
+        <dependency>
+            <groupId>com.reclabs.barney</groupId>
+            <artifactId>BarneyLib</artifactId>
+            <version>0.0.6</version>
+            <exclusions>
+                <exclusion>
+                    <artifactId>RecCommon</artifactId>
+                    <groupId>com.reclabs.libs</groupId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+    </dependencies>
+</project>

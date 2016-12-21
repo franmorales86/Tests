@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/exceptions
+END
+DuplicateUserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/exceptions/DuplicateUserException.java
+END
+TagNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/exceptions/TagNotFoundException.java
+END
+CategoryNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/exceptions/CategoryNotFoundException.java
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/exceptions/login
+END
+RecUserPendingMailLoginException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/exceptions/login/RecUserPendingMailLoginException.java
+END

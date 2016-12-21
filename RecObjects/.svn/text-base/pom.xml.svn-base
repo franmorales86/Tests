@@ -1,0 +1,31 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.reclabs.libs</groupId>
+        <artifactId>RecMain</artifactId>
+        <version>0.0.5</version>
+    </parent>
+    <groupId>com.reclabs.recomendar.backend</groupId>
+    <artifactId>RecObjects</artifactId>
+    <name>RecObjects</name>
+    <version>0.0.9-SNAPSHOT</version>
+    <description>Transfer objects through Recomendar API</description>
+
+    <properties>
+        <tagBase>${hugo.svn.base}/recomendar/backend/RecObjects/tags</tagBase>
+    </properties>
+
+    <scm>
+        <connection>scm:svn:http://hugo.recstatic.com:10114/svn/reclabs/recomendar/backend/RecObjects/trunk</connection>
+        <developerConnection>scm:svn:http://hugo.recstatic.com:10114/svn/reclabs/recomendar/backend/RecObjects/trunk</developerConnection>
+        <url>http://hugo.recstatic.com:10114/svn/reclabs/recomendar/backend/RecObjects/trunk</url>
+    </scm>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.codehaus.jackson</groupId>
+            <artifactId>jackson-mapper-asl</artifactId>
+            <version>1.9.7</version>
+        </dependency>
+    </dependencies>
+</project>

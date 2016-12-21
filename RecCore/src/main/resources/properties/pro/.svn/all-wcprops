@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/149/reclabs/recomendar/backend/RecCore/trunk/src/main/resources/properties/pro
+END
+elasticSearch.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/resources/properties/pro/elasticSearch.properties
+END
+social.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/resources/properties/pro/social.properties
+END
+misc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/resources/properties/pro/misc.properties
+END
+mongo.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/resources/properties/pro/mongo.properties
+END
+amazon.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/149/reclabs/recomendar/backend/RecCore/trunk/src/main/resources/properties/pro/amazon.properties
+END

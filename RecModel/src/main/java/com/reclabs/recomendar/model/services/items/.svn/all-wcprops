@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/150/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/services/items
+END
+ItemShortURLService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/services/items/ItemShortURLService.java
+END
+ItemToVerifyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/services/items/ItemToVerifyService.java
+END
+ItemHaveService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/services/items/ItemHaveService.java
+END
+ItemWantService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/services/items/ItemWantService.java
+END
+ItemService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/150/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/services/items/ItemService.java
+END

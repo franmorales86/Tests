@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/repositories/users
+END
+UserRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/repositories/users/UserRepository.java
+END
+SocialUserRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/repositories/users/SocialUserRepository.java
+END

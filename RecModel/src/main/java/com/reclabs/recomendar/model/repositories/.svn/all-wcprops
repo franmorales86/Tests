@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/152/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/repositories
+END
+BarneyRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/repositories/BarneyRepository.java
+END
+CategoryRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/repositories/CategoryRepository.java
+END
+TagRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/repositories/TagRepository.java
+END
+RecommendationRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/repositories/RecommendationRepository.java
+END

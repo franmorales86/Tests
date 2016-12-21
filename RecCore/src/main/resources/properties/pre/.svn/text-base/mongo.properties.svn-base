@@ -1,0 +1,10 @@
+mongo.database=recomendar
+mongo.user=userRecomendar
+mongo.password=_r3c0m3nd4r_M0ng0_
+
+mongo.host.a=mongoES
+mongo.port.a=10122
+mongo.host.b=mongoES
+mongo.port.b=10123
+mongo.host.c=mongoES
+mongo.port.c=10124

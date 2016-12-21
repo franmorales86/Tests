@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration debug="false">
+
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>[%d{yyyy-MM-dd HH:mm:ss}] [%thread] %-5level %logger{10} [%file:%line] - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+
+    <logger name="de.flapdoodle.embed.process" level="DEBUG"/>
+    <logger name="com.reclabs.recomendar" level="DEBUG"/>
+    <logger name="org.springframework" level="WARN"/>
+    <logger name="org.springframework.web" level="WARN"/>
+    <logger name="io.searchbox" level="WARN"/>
+    <logger name="httpclient.wire" level="WARN"/>
+    <logger name="org.apache.catalina" level="WARN"/>
+    <logger name="org.apache.http" level="WARN"/>
+    <logger name="org.apache.velocity" level="WARN"/>
+    <logger name="org.apache.commons" level="WARN"/>
+    <logger name="com.amazonaws" level="WARN"/>
+    <logger name="org.jets3t" level="WARN"/>
+    <logger name="ch.qos.logback" level="WARN"/>
+
+    <root level="DEBUG">
+        <appender-ref ref="CONSOLE"/>
+    </root>
+</configuration>

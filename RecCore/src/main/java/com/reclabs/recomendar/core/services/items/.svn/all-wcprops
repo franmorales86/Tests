@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/153/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/services/items
+END
+ItemShortURLServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/153/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/services/items/ItemShortURLServiceImpl.java
+END
+ItemToVerifyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/services/items/ItemToVerifyServiceImpl.java
+END
+ItemHaveServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/153/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/services/items/ItemHaveServiceImpl.java
+END
+ItemWantServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/153/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/services/items/ItemWantServiceImpl.java
+END

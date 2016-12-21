@@ -1,0 +1,49 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.reclabs.libs</groupId>
+        <artifactId>RecMain</artifactId>
+        <version>0.0.5</version>
+    </parent>
+    <artifactId>RecESDriver</artifactId>
+    <name>RecESDriver</name>
+    <version>0.0.7-SNAPSHOT</version>
+    <description>Connection driver to ElasticSearch</description>
+    <properties>
+        <tagBase>${hugo.svn.base}/libs/RecESDriver/tags</tagBase>
+    </properties>
+
+    <scm>
+        <connection>scm:svn:http://hugo.recstatic.com:10114/svn/reclabs/libs/RecESDriver/trunk</connection>
+        <developerConnection>scm:svn:http://hugo.recstatic.com:10114/svn/reclabs/libs/RecESDriver/trunk</developerConnection>
+        <url>http://hugo.recstatic.com:10114/svn/reclabs/libs/RecESDriver/trunk</url>
+    </scm>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.reclabs.libs</groupId>
+            <artifactId>RecCommon</artifactId>
+            <version>0.0.9</version>
+        </dependency>
+        <dependency>
+            <groupId>com.sun.jersey</groupId>
+            <artifactId>jersey-client</artifactId>
+            <version>1.17</version>
+        </dependency>
+        <dependency>
+            <groupId>com.sun.jersey</groupId>
+            <artifactId>jersey-json</artifactId>
+            <version>1.17</version>
+        </dependency>
+        <dependency>
+            <groupId>org.elasticsearch</groupId>
+            <artifactId>elasticsearch</artifactId>
+            <version>0.20.6</version>
+        </dependency>
+        <dependency>
+            <groupId>io.searchbox</groupId>
+            <artifactId>jest</artifactId>
+            <version>0.0.3</version>
+        </dependency>
+    </dependencies>
+</project>

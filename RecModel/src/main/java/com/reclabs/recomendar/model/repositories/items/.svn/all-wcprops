@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/repositories/items
+END
+ItemShortURLRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/repositories/items/ItemShortURLRepository.java
+END
+ItemWantRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/repositories/items/ItemWantRepository.java
+END
+ItemRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/repositories/items/ItemRepository.java
+END
+ItemHaveRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/repositories/items/ItemHaveRepository.java
+END
+ItemToVerifyRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/repositories/items/ItemToVerifyRepository.java
+END

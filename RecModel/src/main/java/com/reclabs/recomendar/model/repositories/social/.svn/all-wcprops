@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/152/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/repositories/social
+END
+CommentRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/repositories/social/CommentRepository.java
+END
+InvitationRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/152/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/repositories/social/InvitationRepository.java
+END

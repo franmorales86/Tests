@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/webapp/WEB-INF/views/misc
+END
+terms.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/webapp/WEB-INF/views/misc/terms.jsp
+END
+privacy.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/webapp/WEB-INF/views/misc/privacy.jsp
+END
+modalTerms.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/webapp/WEB-INF/views/misc/modalTerms.jsp
+END
+modalPrivacy.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/webapp/WEB-INF/views/misc/modalPrivacy.jsp
+END
+analytics.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/webapp/WEB-INF/views/misc/analytics.jsp
+END

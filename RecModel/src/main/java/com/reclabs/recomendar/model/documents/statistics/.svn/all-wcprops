@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/statistics
+END
+Karma.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/statistics/Karma.java
+END
+ShareSocialNetworkItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/statistics/ShareSocialNetworkItem.java
+END
+KarmaBCoefficient.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/statistics/KarmaBCoefficient.java
+END
+KarmaCCoefficient.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/statistics/KarmaCCoefficient.java
+END
+ShortURLItemClick.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/statistics/ShortURLItemClick.java
+END
+KarmaDCoefficient.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/statistics/KarmaDCoefficient.java
+END

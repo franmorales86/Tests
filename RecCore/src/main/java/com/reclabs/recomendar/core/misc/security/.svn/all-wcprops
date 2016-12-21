@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/misc/security
+END
+ClientDetailsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/misc/security/ClientDetailsServiceImpl.java
+END
+SecurityHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/misc/security/SecurityHelper.java
+END
+UserApprovalHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/misc/security/UserApprovalHandler.java
+END
+CustomAuthenticationFailureHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/misc/security/CustomAuthenticationFailureHandler.java
+END
+UserDetailsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/misc/security/UserDetailsImpl.java
+END
+OAuthHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/misc/security/OAuthHelper.java
+END

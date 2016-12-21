@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/brand
+END
+AffiliationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/brand/AffiliationManager.java
+END
+Brand.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/brand/Brand.java
+END
+MarketPlaceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/brand/MarketPlaceManager.java
+END
+AffiliationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/brand/AffiliationProvider.java
+END

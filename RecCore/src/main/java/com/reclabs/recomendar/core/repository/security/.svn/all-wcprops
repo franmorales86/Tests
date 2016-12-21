@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/repository/security
+END
+OAuthRefreshTokenRepositoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/repository/security/OAuthRefreshTokenRepositoryImpl.java
+END
+OAuthClientDetailsRepositoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/repository/security/OAuthClientDetailsRepositoryImpl.java
+END
+OAuthAccessTokenRepositoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/java/com/reclabs/recomendar/core/repository/security/OAuthAccessTokenRepositoryImpl.java
+END

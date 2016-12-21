@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/test/java/com/reclabs/recomendar/core/repository/brand
+END
+AffiliationProviderRepositoryImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/test/java/com/reclabs/recomendar/core/repository/brand/AffiliationProviderRepositoryImplTest.java
+END
+AffiliationManagerRepositoryImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/test/java/com/reclabs/recomendar/core/repository/brand/AffiliationManagerRepositoryImplTest.java
+END
+BrandRepositoryImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/test/java/com/reclabs/recomendar/core/repository/brand/BrandRepositoryImplTest.java
+END

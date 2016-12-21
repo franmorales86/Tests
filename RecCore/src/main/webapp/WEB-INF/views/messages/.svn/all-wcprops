@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/webapp/WEB-INF/views/messages
+END
+registerCompleted.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/webapp/WEB-INF/views/messages/registerCompleted.jsp
+END
+verifyEmail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/webapp/WEB-INF/views/messages/verifyEmail.jsp
+END
+notPrivileged.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/96/reclabs/recomendar/backend/RecCore/trunk/src/main/webapp/WEB-INF/views/messages/notPrivileged.jsp
+END

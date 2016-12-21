@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/64/reclabs/libs/RecESDriver/trunk/src/main/java/com/reclabs/recomendar/esdriver/types
+END
+BoolQueryField.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/64/reclabs/libs/RecESDriver/trunk/src/main/java/com/reclabs/recomendar/esdriver/types/BoolQueryField.java
+END
+GenericQueryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/64/reclabs/libs/RecESDriver/trunk/src/main/java/com/reclabs/recomendar/esdriver/types/GenericQueryType.java
+END
+BooldFieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/64/reclabs/libs/RecESDriver/trunk/src/main/java/com/reclabs/recomendar/esdriver/types/BooldFieldType.java
+END
+ESScoreMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/157/reclabs/libs/RecESDriver/trunk/src/main/java/com/reclabs/recomendar/esdriver/types/ESScoreMode.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/147/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/items
+END
+ItemHave.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/items/ItemHave.java
+END
+ItemVIPCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/147/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/items/ItemVIPCollection.java
+END
+ItemToVerify.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/items/ItemToVerify.java
+END
+ItemTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/items/ItemTag.java
+END
+ItemShortURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/items/ItemShortURL.java
+END
+URLPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/items/URLPath.java
+END
+ItemWant.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/71/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/items/ItemWant.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/147/reclabs/recomendar/backend/RecModel/trunk/src/main/java/com/reclabs/recomendar/model/documents/items/Item.java
+END
