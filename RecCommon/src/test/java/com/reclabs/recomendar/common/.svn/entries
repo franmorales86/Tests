@@ -1,0 +1,37 @@
+10
+
+dir
+157
+http://hugo.recstatic.com:10114/svn/reclabs/libs/RecCommon/trunk/src/test/java/com/reclabs/recomendar/common
+http://hugo.recstatic.com:10114/svn
+
+
+
+2014-01-07T13:25:51.628563Z
+151
+raul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+90616632-58cf-415e-96d7-12ae0dd58ec4
+
+exceptions
+dir
+
+helpers
+dir
+
+types
+dir
+

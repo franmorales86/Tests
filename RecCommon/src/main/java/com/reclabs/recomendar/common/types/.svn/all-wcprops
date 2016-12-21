@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/types
+END
+RecMoney.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/types/RecMoney.java
+END
+MimeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/types/MimeType.java
+END
+SingleHashSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/types/SingleHashSet.java
+END
+DatePrecisionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/types/DatePrecisionType.java
+END
+Parameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/types/Parameter.java
+END
+FixedProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/types/FixedProperties.java
+END
+EnvVariableType.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/types/EnvVariableType.java
+END
+CurrencyFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/types/CurrencyFormatter.java
+END
+Language.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/types/Language.java
+END
+SourceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/types/SourceType.java
+END
+CodeErrorType.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/types/CodeErrorType.java
+END
+CurrencyUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/types/CurrencyUnit.java
+END
+Environment.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/types/Environment.java
+END
+ImageFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/types/ImageFormat.java
+END
+RegexOptionsType.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/types/RegexOptionsType.java
+END

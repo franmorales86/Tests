@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/151/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/helpers
+END
+CurrencyHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/helpers/CurrencyHelper.java
+END
+AnnotationHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/helpers/AnnotationHelper.java
+END
+URLHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/helpers/URLHelper.java
+END
+RegExpHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/helpers/RegExpHelper.java
+END
+ParameterHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/151/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/helpers/ParameterHelper.java
+END
+JSONHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/helpers/JSONHelper.java
+END
+PropertiesHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/helpers/PropertiesHelper.java
+END
+RandomHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/main/java/com/reclabs/recomendar/common/helpers/RandomHelper.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/test/java/com/reclabs/recomendar/common/exceptions/generic
+END
+TestErrorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/test/java/com/reclabs/recomendar/common/exceptions/generic/TestErrorException.java
+END
+TestApiException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/test/java/com/reclabs/recomendar/common/exceptions/generic/TestApiException.java
+END
+TestUserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/test/java/com/reclabs/recomendar/common/exceptions/generic/TestUserException.java
+END

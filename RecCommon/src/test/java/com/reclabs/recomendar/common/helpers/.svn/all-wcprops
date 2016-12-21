@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/151/reclabs/libs/RecCommon/trunk/src/test/java/com/reclabs/recomendar/common/helpers
+END
+URLHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/test/java/com/reclabs/recomendar/common/helpers/URLHelperTest.java
+END
+RegExpHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/test/java/com/reclabs/recomendar/common/helpers/RegExpHelperTest.java
+END
+ParameterHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/151/reclabs/libs/RecCommon/trunk/src/test/java/com/reclabs/recomendar/common/helpers/ParameterHelperTest.java
+END
+JSONHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/test/java/com/reclabs/recomendar/common/helpers/JSONHelperTest.java
+END
+DummyObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/test/java/com/reclabs/recomendar/common/helpers/DummyObject.java
+END
+RandomHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/test/java/com/reclabs/recomendar/common/helpers/RandomHelperTest.java
+END
+CurrencyHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/18/reclabs/libs/RecCommon/trunk/src/test/java/com/reclabs/recomendar/common/helpers/CurrencyHelperTest.java
+END
